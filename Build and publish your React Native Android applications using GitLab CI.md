@@ -48,7 +48,7 @@ Continuous Integration – a practice of automatically building and testing soft
 
 8. Publish to different tracks depending on branch / tag
 
-### Example: .gitlab-ci.yml. You certainly that completed build `Dockerfile` in Container Registry.
+### Example: .gitlab-ci.yml. You certainly that completed build `Dockerfile` in Container Registry then to this step .
 ```
 image: registry.gitlab.com/motorica-org/gitlab-ci-react-native-android:master
 
