@@ -4,7 +4,7 @@
 
 Know Before: 
 + [Setting up GitLab CI for Android projects](https://about.gitlab.com/2016/11/30/setting-up-gitlab-ci-for-android-projects/)
-+ [Learn Way To Builds Docker image](https://github.com/jangrewe/gitlab-ci-android)+
++ [Learn Way To Builds Docker image](https://github.com/jangrewe/gitlab-ci-android/blob/master/Dockerfile)
 + Makes use of Container Registry
 
 
